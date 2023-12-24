@@ -1,2 +1,2 @@
 # Algorithm
-java 학습용 workspace 입니다.
+Algorithm 학습용 workspace 입니다.
